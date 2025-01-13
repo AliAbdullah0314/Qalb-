@@ -28,18 +28,17 @@ Qalb+ is an innovative healthcare solution that bridges the gap between patients
 ## Technical Implementation
 
 **Backend**
-Django Web Framework
-Google Maps API Integration
+Django Web Framework, Google Maps API Integration
 
 
 **Frontend**
-HTML/CSS
-JavaScript
+HTML/CSS, 
+JavaScript, 
 Figma for UI/UX
 
 **Database**
 SQLite
-Secure data management
+
 
 
 ## Security Features
